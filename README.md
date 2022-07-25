@@ -1,6 +1,6 @@
-# Practicas
+# Lenguaje C
 Prácticas en Lenguaje C // Practices on C Language
 
-Cajero automático // Cash machine
+Cajero automático // ATM machine
 
 Calculadora básica// Basic calculator
